@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://hamid786siwan.github.io/myportfolio/sitemap.xml
